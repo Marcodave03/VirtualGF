@@ -12,6 +12,10 @@ body, html {
   color: #000000; /* Set default text color */
 }
 
+.chats::-webkit-scrollbar {
+  display: none; /* Hide the scrollbar */
+}
+
 /* App container */
 .App {
   display: flex;
