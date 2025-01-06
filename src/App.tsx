@@ -2,7 +2,7 @@ import React, { useState} from "react";
 import Cewekk from "./assets/Cewek4.jpg";
 
 // Replace with your actual API key
-const API_KEY = process.env.openai ;
+const API_KEY = "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" ;
 
 // Define the system message
 const systemMessage = {
